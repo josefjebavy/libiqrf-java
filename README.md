@@ -1,2 +1,3 @@
 # libiqrf-java
-java binding for libiqrf
+java binding for [libiqrf](https://github.com/nandra/libiqrf)
+
